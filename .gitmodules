@@ -1,0 +1,6 @@
+[submodule "Library/CPango"]
+	path = Library/CPango
+	url = https://github.com/rpinz/CPango
+[submodule "CPango"]
+	path = CPango
+	url = https://github.com/rpinz/CPango
